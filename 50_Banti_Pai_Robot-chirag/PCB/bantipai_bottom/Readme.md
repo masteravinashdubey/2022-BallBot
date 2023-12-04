@@ -1,0 +1,1 @@
+This is initially conceived PCB, which doesn't accomodate the motor drivers. This consists of the eYFi-Mega and pinouts for GY87,4 encoders and 4 motor driver(2 direction pin and 1 PWM for each motor driver)

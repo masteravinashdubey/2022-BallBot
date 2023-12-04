@@ -1,0 +1,10 @@
+Partlist exported from C:/Users/CHIRAG JAIN/Documents/EAGLE/projects/bantipai/BANTI.sch at 30-06-2022 15:19
+
+Qty Value           Device          Package         Parts                               Description                MF MPN     OC_FARNELL OC_NEWARK POPULARITY
+5                   MA04-1          MA04-1          ENC1, ENC2, ENC3, ENC4, GYRO        PIN HEADER                            unknown    unknown             
+4                   MA06-1          MA06-1          MOTOR1, MOTOR2, MOTOR3, MOTOR4      PIN HEADER                            unknown    unknown   28        
+6                   W237-102        W237-102        12-7, 12-8, 12-9, 12-10, BATT3, SW3 WAGO SCREW CLAMP              237-102 unknown    70K9898             
+3   100uf           C2.5/2          C2.5-2          INPUTCAP1, INPUTCAP2, INPUTCAP3     CAPACITOR                                                            
+3   10uf            C2.5/2          C2.5-2          OUTPUTCAP1, OUTPUTCAP2, OUTPUTCAP3  CAPACITOR                                                            
+3   7805TV          7805TV          TO220V          7805-1, 7805-2, 7805-3              Positive VOLTAGE REGULATOR                                           
+1   ATMEGA2560_V2.0 ATMEGA2560_V2.0 ATMEGA2560_V2.0 EYFI                                                                                                     

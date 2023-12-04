@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-06-30T09:49:50Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "BANTI"
+        },
+        "Owner": "Chirag Jain <chirag.jain1@somaiya.edu>",
+        "Size": {
+            "X": 180,
+            "Y": 180
+        }
+    }
+}

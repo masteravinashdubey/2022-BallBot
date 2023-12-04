@@ -1,0 +1,3 @@
+In this, all four hercules driver are accomodated on the board, with 2 mounting screw-holes provided for each.They are placed such that symmetry is maintained and weight is equally distributed on the PCB.
+The motor driver, for which this pcb was designed is [this](http://www.nex-robotics.com/products/motor-drivers/dc-motor-drivers/hercules-series-motor-drivers/hercules-lite-6v-36v-8amp-motor-driver.html)
+This modification was done so that no additional changes were to be done on the acrylic sheet on which the PCB is to be mounted.You only two mounting holes(similar to eyfi-mega) and this PCB could be fitted anywhere
